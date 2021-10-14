@@ -1,4 +1,35 @@
 ######################################################################
+### Languages
+
+## JavaScript
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+
+######################################################################
+### Package Management Tools
+
+## Yarn
+
+# Environments
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
+
+######################################################################
 ### Editors
 
 ## Visual Studio Code
