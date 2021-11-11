@@ -17,3 +17,8 @@ CsHub是一个计算机科学工具的网页应用程序。
 - cshub-generator 为系统的代码生成模块，代码生成的模板在 system 模块中。
 
 - cshub-ui 为系统的前端模块，独立于其他后端模块。
+## 技术清单
+| | 后端 | 前端 |
+| :-----| :----: | :----: |
+| 语言 | Java | TypeScript |
+| 框架 | Spring Boot,Spring Data JPA | React,MUI |
