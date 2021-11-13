@@ -21,8 +21,8 @@ CsHub是一个计算机科学工具的网页应用程序。
 | | 后端 | 前端 |
 | :-----| :----: | :----: |
 | 语言 | Java | TypeScript |
-| 框架 | Spring Boot, Spring Data JPA | React, MUI |
-| 数据库 | PostgreSQL | |
-| 中间件 | Redis | |
+| 框架 | Spring Boot, Spring Data JPA | React, MUI |\
 | 工具 | Gradle, Git | Yarn |
 | 应用服务器 | Tomcat | Nginx |
+| 数据库 | PostgreSQL | |
+| 中间件 | Redis | |
