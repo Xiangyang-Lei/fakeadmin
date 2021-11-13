@@ -2,7 +2,7 @@
 ## Project Introduction
 The CsHub is a web application of tools for computer science.
 ## 项目介绍
-CsHub是一个计算机科学工具的网页应用程序。
+CsHub 是一个计算机科学工具的网页应用程序。
 ## 项目结构
 项目采用按功能分模块的开发方式，结构如下：
 
@@ -21,7 +21,7 @@ CsHub是一个计算机科学工具的网页应用程序。
 | | 后端 | 前端 |
 | :-----| :----: | :----: |
 | 语言 | Java | TypeScript |
-| 框架 | Spring Boot, Spring Data JPA | React, MUI |\
+| 框架 | Spring Boot, Spring Data JPA | React, MUI |
 | 工具 | Gradle, Git | Yarn |
 | 应用服务器 | Tomcat | Nginx |
 | 数据库 | PostgreSQL | |
