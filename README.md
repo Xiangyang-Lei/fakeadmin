@@ -1,9 +1,15 @@
 # CsHub
+
 ## Project Introduction
+
 The CsHub is a web application of tools for computer science.
+
 ## 项目介绍
+
 CsHub 是一个计算机科学工具的网页应用程序。
+
 ## 项目结构
+
 项目采用按功能分模块的开发方式，结构如下：
 
 - cshub-common 为系统的公共模块，各种工具类，公共配置存在该模块。
@@ -17,7 +23,9 @@ CsHub 是一个计算机科学工具的网页应用程序。
 - cshub-generator 为系统的代码生成模块，代码生成的模板在 system 模块中。
 
 - cshub-ui 为系统的前端模块，独立于其他后端模块。
+
 ## 技术清单
+
 | | 后端 | 前端 |
 | :-----| :----: | :----: |
 | 语言 | Java | TypeScript |
@@ -26,3 +34,4 @@ CsHub 是一个计算机科学工具的网页应用程序。
 | 应用服务器 | Tomcat | Nginx |
 | 数据库 | PostgreSQL | |
 | 中间件 | Redis | |
+
