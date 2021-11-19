@@ -6,7 +6,7 @@ The CsHub-UI is the frontend project of the CsHub.
 
 ## 项目介绍
 
-cshub-ui 是 CsHub 的前端项目。
+CsHub-UI 是 CsHub 的前端项目。
 
 ## 项目结构
 
