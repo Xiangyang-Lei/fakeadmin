@@ -16,7 +16,7 @@ cshub-ui 是 CsHub 的前端项目。
 
 | | 前端 |
 | :----- | :----: |
-| 语言 | TypeScript |
+| 语言 | JavaScript |
 | 框架 | React, MUI |
 | 工具 | Yarn |
 | 应用服务器 | Nginx |
