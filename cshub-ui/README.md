@@ -1,8 +1,8 @@
-# cshub-ui
+# CsHub-UI
 
 ## Project Introduction
 
-The cshub-ui is the frontend project of the CsHub.
+The CsHub-UI is the frontend project of the CsHub.
 
 ## 项目介绍
 
