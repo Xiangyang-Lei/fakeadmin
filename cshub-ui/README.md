@@ -1,12 +1,12 @@
-# CsHub-UI
+# AdminHub-Web
 
 ## Project Introduction
 
-The CsHub-UI is the frontend project of the CsHub.
+The AdminHub-Web is the frontend project of the AdminHub.
 
 ## 项目介绍
 
-CsHub-UI 是 CsHub 的前端项目。
+AdminHub-Web 是 CsHub 的前端项目。
 
 ## 项目结构
 
