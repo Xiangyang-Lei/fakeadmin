@@ -2,11 +2,11 @@
 
 ## Project Introduction
 
-The CsHub is a web application of tools for computer science.
+Adminhub is a meta background management framework.
 
 ## 项目介绍
 
-CsHub 是一个计算机科学工具的网页应用程序。
+AdminHub 是一个元后台管理框架。
 
 ## 项目结构
 
@@ -22,7 +22,7 @@ CsHub 是一个计算机科学工具的网页应用程序。
 
 - admin-hub-generator 为系统的代码生成模块，代码生成的模板在 system 模块中。
 
-- admin-hub-web 为系统的前端模块，独立于其他后端模块。
+- admin-hub-web 为系统的前端工程，独立于其他后端模块。
 
 ## 技术清单
 
