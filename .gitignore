@@ -1,20 +1,20 @@
 ######################################################################
-### Languages
+# Languages
 
 ## Java
-# Compiled class file
+### Compiled class file
 *.class
 
-# Log file
+### Log file
 *.log
 
-# BlueJ files
+### BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+### Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+### Package Files #
 *.jar
 *.war
 *.nar
@@ -23,28 +23,28 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+### virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
 ######################################################################
-### Build Tools
+# Build Tools
 
 ## Gradle
 .gradle
 **/build/
 !src/**/build/
 
-# Ignore Gradle GUI config
+### Ignore Gradle GUI config
 gradle-app.setting
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+### Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
 
-# Cache of project
+### Cache of project
 .gradletasknamecache
 
 ######################################################################
-### IDEs
+# IDEs
 
 ## IntelliJ IDEA
 .idea
@@ -53,7 +53,7 @@ gradle-app.setting
 *.ipr
 
 ######################################################################
-### Miscs
+# Miscs
 
 ## Backup
 *.tmp
