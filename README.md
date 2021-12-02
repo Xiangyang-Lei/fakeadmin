@@ -4,9 +4,13 @@
 
 Adminhub is a meta background management framework.
 
+Adminhub is based on Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, React and MUI.
+
 ## 项目介绍
 
 AdminHub 是一个元后台管理框架。
+
+AdminHub 基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、 PostgreSQL 、 React 和 MUI 。 
 
 ## 项目结构
 
@@ -29,7 +33,7 @@ AdminHub 是一个元后台管理框架。
 | | 后端 | 前端 |
 | :-----| :----: | :----: |
 | 语言 | Java | JavaScript |
-| 框架 | Spring Boot, Spring Data JPA | React, MUI |
+| 框架 | Spring Boot, Spring Data JPA, Spring Security | React, MUI |
 | 工具 | Gradle | Yarn |
 | 应用服务器 | Tomcat | Nginx |
 | 数据库 | PostgreSQL | |
