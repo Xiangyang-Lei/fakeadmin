@@ -6,7 +6,7 @@ The AdminHub-Web is the frontend project of the AdminHub.
 
 ## 项目介绍
 
-AdminHub-Web 是 CsHub 的前端项目。
+AdminHub-Web 是 AdminHub 的前端项目。
 
 ## 项目结构
 
