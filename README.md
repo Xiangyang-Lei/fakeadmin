@@ -33,5 +33,4 @@ AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、
 | 工具 | Gradle | Yarn |
 | 应用服务器 | Tomcat | Nginx |
 | 数据库 | PostgreSQL | |
-| 中间件 | Redis | |
 
