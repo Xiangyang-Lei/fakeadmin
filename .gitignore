@@ -10,7 +10,7 @@
 ### Log file
 *.log
 
-### BlueJ files
+### BlueJ file
 *.ctxt
 
 ### Mobile Tools for Java (J2ME)
