@@ -1,36 +1,47 @@
-######################################################################
-### Languages
+################################################################################
+
+# Languages
 
 ## JavaScript
 
-# Dependencies
+### Dependencies
 /node_modules
 /.pnp
 .pnp.js
 
-# Testing
+### Testing
 /coverage
 
-# Production
+### Production
 /build
 
-######################################################################
-### Package Management Tools
+### Log
+*.log
+
+################################################################################
+
+# Package Management Tools
 
 ## Yarn
 
-# Environments
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+### Environments
+.env
+.env.development
+.env.test
+.env.production
 
-# Logs
+### Logs
 yarn-debug.log*
 yarn-error.log*
 
-######################################################################
-### Editors
+## NPM
+
+### Log
+npm-debug.log*
+
+################################################################################
+
+# Editors
 
 ## Visual Studio Code
 .vscode/*
@@ -40,11 +51,12 @@ yarn-error.log*
 !.vscode/extensions.json
 *.code-workspace
 
-# Local History for Visual Studio Code
+### Local History for Visual Studio Code
 .history/
 
-######################################################################
-### Miscs
+################################################################################
+
+# Miscs
 
 ## Backup
 *.tmp
