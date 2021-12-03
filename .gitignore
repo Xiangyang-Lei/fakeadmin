@@ -4,10 +4,10 @@
 
 ## Java
 
-### Compiled class file
+### Compiled class files
 *.class
 
-### Log file
+### Log files
 *.log
 
 ### BlueJ files
@@ -48,7 +48,7 @@ gradle-app.setting
 
 ################################################################################
 
-# IDEs
+# IDE
 
 ## IntelliJ IDEA
 .idea
