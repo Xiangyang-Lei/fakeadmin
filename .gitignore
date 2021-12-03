@@ -4,10 +4,10 @@
 
 ## Java
 
-### Compiled class files
+### Compiled class file
 *.class
 
-### Log files
+### Log file
 *.log
 
 ### BlueJ files
