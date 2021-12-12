@@ -19,5 +19,4 @@ AdminHub-Web 是 AdminHub 的前端项目。
 | 语言 | JavaScript |
 | 框架 | React, MUI |
 | 工具 | Yarn |
-| 应用服务器 | Nginx |
 
