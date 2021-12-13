@@ -1,5 +1,5 @@
 #########################
-# Language Ignore files #
+# Language Ignore Files #
 #########################
 # JavaScript
 
@@ -16,7 +16,7 @@
 
 
 ########################################
-# Package Management Tool Ignore files #
+# Package Management Tool Ignore Files #
 ########################################
 # Yarn
 
@@ -33,7 +33,7 @@ yarn-error.log*
 
 
 #######################
-# Editor Ignore files #
+# Editor Ignore Files #
 #######################
 # Visual Studio Code
 .vscode/*
@@ -48,7 +48,7 @@ yarn-error.log*
 
 
 #####################
-# Misc Ignore files #
+# Misc Ignore Files #
 #####################
 # Backup
 *.tmp
