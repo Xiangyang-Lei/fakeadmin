@@ -1,5 +1,5 @@
 #########################
-# Language Ignore files #
+# Language Ignore Files #
 #########################
 # Java
 
@@ -29,7 +29,7 @@ hs_err_pid*
 
 
 ###########################
-# Build Tool Ignore files #
+# Build Tool Ignore Files #
 ###########################
 # Gradle
 .gradle
@@ -47,7 +47,7 @@ gradle-app.setting
 
 
 ####################
-# IDE Ignore files #
+# IDE Ignore Files #
 ####################
 # IntelliJ IDEA
 .idea
@@ -64,7 +64,7 @@ gradle-app.setting
 
 
 #####################
-# Misc Ignore files #
+# Misc Ignore Files #
 #####################
 # Backup
 *.tmp
