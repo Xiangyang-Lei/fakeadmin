@@ -1,12 +1,12 @@
-# AdminHubWeb
+# AdminHub-Web
 
 ## Project Introduction
 
-The AdminHubWeb is the frontend project of the AdminHub.
+The AdminHub-Web is the frontend project of the AdminHub.
 
 ## 项目介绍
 
-AdminHubWeb 是 AdminHub 的前端项目。
+AdminHub-Web 是 AdminHub 的前端项目。
 
 ## 项目结构
 
