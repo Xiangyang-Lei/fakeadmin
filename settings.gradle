@@ -1,7 +1,6 @@
-rootProject.name = 'admin-hub'
-include 'admin-hub-common'
-include 'admin-hub-system'
-include 'admin-hub-logging'
-include 'admin-hub-tools'
-include 'admin-hub-generator'
-
+rootProject.name = 'adminhub'
+include 'adminhub-common'
+include 'adminhub-system'
+include 'adminhub-logging'
+include 'adminhub-tools'
+include 'adminhub-generator'
