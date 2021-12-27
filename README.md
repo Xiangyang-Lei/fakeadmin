@@ -22,7 +22,7 @@ AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、
 
 - adminhub-generator 为系统的代码生成模块，代码生成的模板在 system 模块中。
 
-- adminhub-web 为系统的前端工程，独立于其他后端模块。
+- adminhub-web 为系统的前端项目，独立于其他后端模块。
 
 ## 技术清单
 
