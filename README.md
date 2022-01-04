@@ -2,11 +2,11 @@
 
 ## Project Introduction
 
-AdminHub is a meta background management framework based on Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, React and MUI.
+AdminHub is a front-end and back-end meta background management framework based on Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, React and MUI.
 
 ## 项目介绍
 
-AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、 PostgreSQL 、 React 和 MUI 的元后台管理框架。
+AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、 PostgreSQL 、 React 和 MUI 的前后端分离的元后台管理框架。
 
 ## 项目结构
 
