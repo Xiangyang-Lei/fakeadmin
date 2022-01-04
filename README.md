@@ -8,6 +8,12 @@ AdminHub is a front-end and back-end meta background management framework based 
 
 AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、 PostgreSQL 、 React 和 MUI 的前后端分离的元后台管理框架。
 
+#### 项目源码
+
+| | 后端源码 | 前端源码 |
+| :-----| :----: | :----: |
+| GitHub | https://github.com/elunez/eladmin | https://github.com/elunez/eladmin-web |
+
 ## 项目结构
 
 项目采用按功能分模块的开发方式，结构如下：
