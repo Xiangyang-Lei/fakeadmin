@@ -1,4 +1,11 @@
-# AdminHub
+<h1 style="text-align: center">AdminHub</h1>
+<div style="text-align: center">
+
+[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/Xiangyang-Lei/adminhub/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Xiangyang-Lei/adminhub.svg?style=social&label=Stars)](https://github.com/Xiangyang-Lei/adminhub)
+[![GitHub forks](https://img.shields.io/github/forks/Xiangyang-Lei/adminhub.svg?style=social&label=Fork)](https://github.com/Xiangyang-Lei/adminhub)
+
+</div>
 
 ## Project Introduction
 
@@ -8,7 +15,7 @@ AdminHub is a front-end and back-end meta background management framework based 
 
 AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、 PostgreSQL 、 React 和 MUI 的前后端分离的元后台管理框架。
 
-#### 项目源码
+## 项目源码
 
 | | 后端源码 | 前端源码 |
 | :-----| :----: | :----: |
