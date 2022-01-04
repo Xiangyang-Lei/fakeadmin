@@ -44,3 +44,9 @@ AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、
 
 - adminhub-generator 为系统的代码生成模块，代码生成的模板在 system 模块中。
 
+## 特别鸣谢
+
+- 感谢 [JetBrains](https://www.jetbrains.com/) 提供的非商业开源软件开发授权
+
+- 感谢 [EL-ADMIN](https://github.com/elunez/eladmin) 大佬提供的后端模板
+
