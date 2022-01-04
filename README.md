@@ -12,7 +12,16 @@ AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、
 
 | | 后端源码 | 前端源码 |
 | :-----| :----: | :----: |
-| GitHub | https://github.com/elunez/eladmin | https://github.com/elunez/eladmin-web |
+| GitHub | https://github.com/Xiangyang-Lei/adminhub | https://github.com/Xiangyang-Lei/adminhub-web |
+
+## 技术清单
+
+| | 后端 | 前端 |
+| :-----| :----: | :----: |
+| 语言 | Java | JavaScript |
+| 框架 | Spring Boot, Spring Data JPA, Spring Security | React, MUI |
+| 工具 | Gradle | Yarn |
+| 数据库 | PostgreSQL | |
 
 ## 项目结构
 
@@ -27,15 +36,4 @@ AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、
 - adminhub-tools 为系统的第三方工具模块，包含：图床、邮件、云存储、本地存储、支付宝。
 
 - adminhub-generator 为系统的代码生成模块，代码生成的模板在 system 模块中。
-
-- adminhub-web 为系统的前端项目，独立于其他后端模块。
-
-## 技术清单
-
-| | 后端 | 前端 |
-| :-----| :----: | :----: |
-| 语言 | Java | JavaScript |
-| 框架 | Spring Boot, Spring Data JPA, Spring Security | React, MUI |
-| 工具 | Gradle | Yarn |
-| 数据库 | PostgreSQL | |
 
