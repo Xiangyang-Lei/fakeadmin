@@ -28,7 +28,7 @@ AdminHub 是一个基于 Spring Boot 、 Spring Data JPA 、 Spring Security 、
 | 语言 | Java | JavaScript |
 | 框架 | Spring Boot, Spring Data JPA, Spring Security | Vue.js, Element |
 | 工具 | Gradle | NPM |
-| 数据库 | PostgreSQL | |
+| 数据库 | PostgreSQL, Redis | |
 
 ## 项目结构
 
